@@ -1,0 +1,48 @@
+.container{
+    background-color:  beige;
+    width: 75%;
+    margin: auto;
+    padding:20px ;
+    color: blueviolet;
+    box-shadow: 5px 5px 8px black ,-5px -5px 8px black;
+}
+
+h2{
+    background-color: antiquewhite;
+    text-shadow: 3px 3px 5px black;
+    box-shadow: 5px 5px 8px black;
+    padding: 10px 0px;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    border: solid red;
+    border-radius: 10px;
+}
+
+p{
+    background-color: bisque;
+}
+
+.paratlan_h2{
+    color: blue;
+}
+
+.paros_h2{
+    color: darkgreen;
+}
+
+#cimsorok{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    font-size: 32px;
+    padding: 20px;
+    border: 2px solid red;
+    margin: 13px;
+}
+
+/* stílusok definiálása CSS3-szelektorokhoz (univerzális, elem, azonosító, osztály)
+CSS3-jellemzők alkalmazása (color, opacity, background*, border*, box-shadow, box-sizing, margin*, padding*, overflow, display, float, z-index, rel, width*, height*, top, bottom, left, right, position, line-height, text-align, vertical-align, textjustify, texttransform, font, font-family, font-size, font-style, text-decoration, list-style*, cursor, letter-spacing, viewport, white-space, float,) (a *-gal jelölt elemek több jellemzőt tartal-maznak, pl. margin-left, margin-right)
+CSS-függvények alkalmazása (url(), rgb(), rgba(), calc())
+médialekérdezések, törési pontok, viewport alkalmazása
+abszolút és relatív hosszmértékegységek (em, rem, százalék, vw, vh) alkalmazása
+Bootstrap keretrendszer alapszintű használata (tipográfiai elemek, konténerek, reszpon-zív viselkedést biztosító rácsok, szövegek elrendezése, listák formázása, táblázatok for-mázása, képek kezelése, tartalom elkülönítése, panelek formázása, gombok kialakítása és formázása) */
